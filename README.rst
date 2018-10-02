@@ -45,7 +45,7 @@ Independently control the output file path and the URL used to access it from Ju
 
 FORK Additions
 --------------
-Allow for custom `Title`
+Allow for custom *title* on the output html file
 
 .. code:: python
 
