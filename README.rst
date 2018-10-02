@@ -46,5 +46,7 @@ Independently control the output file path and the URL used to access it from Ju
 FORK Additions
 --------------
 Allow for custom `Title`
+
 .. code:: python
+
     pivot_ui(df, outfile_path="/x/y.html", url="http://localhost/a/b/x.html", title="Custom Title Here")
